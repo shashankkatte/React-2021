@@ -16,3 +16,5 @@ The useState is used to work with the React's 'state' system. State is used to k
 
 ## How do I create starter react app?
 use this command in terminal ```npx create-react-app my-app```. Replace my-app with your app's name.
+
+## Components
